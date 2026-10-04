@@ -2,7 +2,7 @@
 
 Node/Express gateway with hybrid auth (local bcrypt + GitHub OAuth 2.0), rotating refresh tokens in httpOnly cookies, RBAC and OWASP hardening, plus a small web GUI.
 
-**Live URL:** _add your Render/Railway HTTPS URL_ · **Repo:** _public GitHub URL_
+**Live URL:** https://security-gateway-p8sb.onrender.com/
 
 ## Test credentials
 | Role | Email | Password |
